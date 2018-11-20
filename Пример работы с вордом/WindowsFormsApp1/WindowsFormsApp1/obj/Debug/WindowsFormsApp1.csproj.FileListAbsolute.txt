@@ -1,0 +1,11 @@
+F:\TANJA\Допработа\АЙТИШАГ\Temp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\TANJA\Допработа\АЙТИШАГ\Temp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\TANJA\Допработа\АЙТИШАГ\Temp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\TANJA\Допработа\АЙТИШАГ\Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+F:\TANJA\Допработа\АЙТИШАГ\Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+F:\TANJA\Допработа\АЙТИШАГ\Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\TANJA\Допработа\АЙТИШАГ\Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\TANJA\Допработа\АЙТИШАГ\Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\TANJA\Допработа\АЙТИШАГ\Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\TANJA\Допработа\АЙТИШАГ\Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\TANJA\Допработа\АЙТИШАГ\Temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
